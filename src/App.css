@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.contextapi {
+  background-color: grey;
+  color: #fff
+}
+.reducer {
+  background-color: grey;
+  color: #fff;
+}
